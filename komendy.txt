@@ -1,10 +1,10 @@
-autoprefixer-cli ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css
+autoprefixer-cli ma czytaÃ¦ z pliku style.css i zapisywaÃ¦ wynik do pliku style.prefixed.css
 
 autoprefixer-cli -o main.prefixed.css main.css
 
 
 
-nu-html-checker ma wyœwietlaæ listê b³êdów we wszystkich plikach .html,
+nu-html-checker ma wyÅ“wietlaÃ¦ listÃª bÂ³ÃªdÃ³w we wszystkich plikach .html,
 To check all documents in a particular directory as HTML:
 
-  java -jar ~/vnu.jar some-directory-name/
+  nu-html-checker --help
